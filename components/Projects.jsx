@@ -8,7 +8,7 @@ export default function Projects() {
     {
       title: "Portfolio Website",
       description: "A personal portfolio built using Next.js and TailwindCSS.",
-      link: "#"
+      link: "https://dodge-nine-alpha.vercel.app/"
     },
     {
       title: "Dodge-new models Website",
@@ -16,9 +16,9 @@ export default function Projects() {
       link: "#"
     },
     {
-      title: "ID-page",
+      title: "Login-page",
       description: "A demo e-commerce site using html and css.",
-      link: "#"
+      link: "login-page-flax-pi.vercel.app"
     },
     {
       title: "Rock-Paper-Scissor Game",
