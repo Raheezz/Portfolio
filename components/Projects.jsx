@@ -18,7 +18,7 @@ export default function Projects() {
     {
       title: "Login-page",
       description: "A demo e-commerce site using html and css.",
-      link: "login-page-flax-pi.vercel.app"
+      link: "https://login-chi-murex.vercel.app/git"
     },
     {
       title: "Rock-Paper-Scissor Game",
