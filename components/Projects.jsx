@@ -3,7 +3,7 @@ export default function Projects() {
     {
       title: "To-Do List Web App",
       description: "A task management app built with Django and React.",
-      link: "#"
+      link: "https://rahees.pythonanywhere.com/"
     },
     {
       title: "Portfolio Website",
@@ -12,8 +12,8 @@ export default function Projects() {
     },
     {
       title: "Dodge-new models Website",
-      description: "A demo e-commerce site using React and Firebase.",
-      link: "#"
+      description: "A demo car website using Html and CSS.",
+      link: "https://cars-peach-five.vercel.app/"
     },
     {
       title: "Login-page",
